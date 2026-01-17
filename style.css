@@ -45,7 +45,7 @@ h3 {
     flex-direction: column;
     width: 100%;
     gap: 0;
-    padding-bottom: 5vh;
+    padding-bottom: 2px;
 }
 
 .container {
@@ -430,6 +430,6 @@ h1 {
 }
 
 @keyframes hovering2 {
-    0% { transform: translateY(2vh); -webkit-transform: translateY(2vh); -moz-transform: translateY(2vh); -ms-transform: translateY(2vh); -o-transform: translateY(2vh); }
-    100% { transform: translateY(-2vh); -webkit-transform: translateY(-2vh); -moz-transform: translateY(-2vh); -ms-transform: translateY(-2vh); -o-transform: translateY(-2vh); }
+    0% { transform: translateY(1vh); -webkit-transform: translateY(1vh); -moz-transform: translateY(1vh); -ms-transform: translateY(1vh); -o-transform: translateY(1vh); }
+    100% { transform: translateY(-1vh); -webkit-transform: translateY(-1vh); -moz-transform: translateY(-1vh); -ms-transform: translateY(-1vh); -o-transform: translateY(-1vh); }
 }
